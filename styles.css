@@ -1,0 +1,22 @@
+body{
+    background-image: url('https://cdn.nextbigideaclub.com/wp-content/uploads/2023/01/31125610/viral-justice_1200x600-2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h2{
+    color: rgb(64, 204, 209);
+}
+
+table,th, td{
+    border: 1px solid black;
+}
+table, td, th{
+    background-color: bisque;
+    }
+    .table, th, td{
+        height: 50px; 
+        width: 150px;
+        margin: 15px;
+    
+    }
